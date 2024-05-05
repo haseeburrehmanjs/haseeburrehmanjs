@@ -19,7 +19,7 @@
 <a href="https://twitter.com/haseeburehmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haseeburehmann" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/haseeb-ur-rehman-a735382a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haseeb-ur-rehman-a735382a9" height="30" width="40" /></a>
 <a href="https://fb.com/haseebur.rahaman.543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haseebur.rahaman.543" height="30" width="40" /></a>
-<a href="https://instagram.com/haseeburrehman02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haseeburrehman02" height="30" width="40" /></a>
+<a href="https://instagram.com/haseeburrehmanjs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haseeburrehman02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
