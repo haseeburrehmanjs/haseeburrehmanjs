@@ -2,25 +2,42 @@
 <h1 align="center">Hi 👋, I'm Haseeb Ur Rehman</h1>
 <h3 align="center">A passionate frontend developer!</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">         -->
+<body>
+    <div class="container">
+        <h1>About Me</h1>
+        <p>Hello there! 👋 I'm Haseeb Ur Rehman, an 17-year-old enthusiast passionate about web development, currently
+            diving deep into the world of MERN Stack. I love to code, learn new technologies, and build exciting
+            projects.</p>
+        <h1>Skills</h1>
+        <ul>
+            <li>Frontend: HTML, CSS, JavaScript</li>
+            <li>Other Tools: Git, GitHub, VS Code</li>
+        </ul>
+        <h1>Projects</h1>
+        <p>Here are some of the projects I've worked on:</p>
+        <ul>
+            <li><a href="https://priceoye-by-haseeb.netlify.app/" target="_blank">Priceye App</a> -A fully responsive Priceoye Clone made by me using HTML,CSS and Bootstrap.</li>
+            <li><a href="https://noon-web-clone.netlify.app/" target="_blank">Noon Website</a> - Noon website clone. Fully responsive, multipage website made by me using HTML,CSS.</li>
+        </ul>
+        <h1>Learning Goals</h1>
+        <p>Currently, my focus is on mastering the MERN Stack, which includes:</p>
+        <ul>
+            <li>Mastering JavaScript.</li>
+            <li>Improving my React.js skills by building more complex and interactive user interfaces.</li>
+        </ul>
+        <h1>Get in Touch</h1>
+        <p>Feel free to reach out to me via LinkedIn if you want to collaborate on projects, have any questions, or just want to chat about web development!</p>
+        <h1>Let's Connect</h1>
+        <ul>
+            <li><a href="">linkedln</a></li>
+            <li><a href="">Gamil</a></li>
+            <li><a href="">Whatsapp</a></li>
+        </ul>
+        <p>Looking forward to connecting with you! 😊</p>
 
 
+        
+    
+</body>
 
-- 🌱 I’m currently learning **JavaScript also TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://haseeb-dream-portfolio.netlify.app/](https://haseeb-dream-portfolio.netlify.app/)
-
-- 💬 Ask me about **Html, Css, bootstrap, JavaScript, TypeScript,**
-
-- 📫 How to reach me **haseeburrehmanjs@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/haseeburehmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haseeburehmann" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haseeb-ur-rehman-a735382a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haseeb-ur-rehman-a735382a9" height="30" width="40" /></a>
-<a href="https://fb.com/haseebur.rahaman.543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haseebur.rahaman.543" height="30" width="40" /></a>
-<a href="https://instagram.com/haseeburrehmanjs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haseeburrehman02" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+</html>
