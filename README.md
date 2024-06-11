@@ -14,7 +14,7 @@
         <ul>
             <li><a href="https://priceoye-by-haseeb.netlify.app/" target="_blank">Priceye App</a> -A fully responsive Priceoye Clone made by me using HTML,CSS and Bootstrap.</li>
             <li><a href="https://noon-web-clone.netlify.app/" target="_blank">Noon Website</a> - Noon website clone. Fully responsive, multipage website made by me using HTML,CSS.</li>
-            <li><a href="https://noon-web-clone.netlify.app/" target="_blank">Quiz-App</a> - Quiz App desgin. Fully responsive, website made by me using HTML,CSS,Bootstrap and JAVASCRIPT</li>
+            <li><a href="https://quiz-app-by-haseeb.netlify.app/?" target="_blank">Quiz-App</a> - Quiz App desgin. Fully responsive, website made by me using HTML,CSS,Bootstrap and JAVASCRIPT</li>
         </ul>
         <h2>Learning Goals</h1>
         <p>Currently, my focus is on mastering the MERN Stack, which includes:</p>
