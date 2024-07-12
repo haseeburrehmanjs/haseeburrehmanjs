@@ -6,7 +6,7 @@
             projects.</p>
         <h2>Skills</h1>
         <ul>
-            <li>Frontend: HTML, CSS, JavaScript</li>
+            <li>Frontend: HTML, CSS, JavaScript and Typescript</li>
             <li>Other Tools: Git, GitHub, VS Code</li>
         </ul>
         <h2>Projects</h1>
