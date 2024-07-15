@@ -2,7 +2,7 @@
     <div class="container">
         <h2>About Me</h1>
         <p>Hello there! 👋 I'm Haseeb Ur Rehman, an 17-year-old enthusiast passionate about web development, currently
-            diving deep into the world of MERN Stack. I love to code, learn new technologies, and build exciting
+            diving deep into the world of MERN Stack. I love to code, learn new technologies, and build exciting.
             projects.</p>
         <h2>Skills</h1>
         <ul>
