@@ -9,7 +9,7 @@
             <li>Frontend: HTML, CSS, JavaScript and Typescript</li>
             <li>Other Tools: Git, GitHub, VS Code</li>
             <li>Know about my experiences</li>
-            <a href='https://drive.google.com/file/d/1wsjkMdE5lYS3UmhCAPAYBjcpkUBXPZoh/view'>https://drive.google.com/file/d/1wsjkMdE5lYS3UmhCAPAYBjcpkUBXPZoh/view<a>
+            <a href='https://drive.google.com/file/d/1OTa4NEXEbrRuDkfkqeVgNbqxCUTbRdQn/view?usp=drive_link'>https://drive.google.com/file/d/1wsjkMdE5lYS3UmhCAPAYBjcpkUBXPZoh/view<a>
         </ul>
         <h2>Projects</h1>
         <p>Here are some of the projects I've worked on:</p>
