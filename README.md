@@ -1,36 +1,13 @@
-<body>
-    <div class="container">
-        <h2>About Me</h1>
-        <p>Hello there! 👋 I'm Haseeb Ur Rehman, an 17-year-old enthusiast passionate about web development, currently
-            diving deep into the world of MERN Stack. I love to code, learn new technologies, and build exciting
-            projects.</p>
-        <h2>Skills</h1>
-        <ul>
-            <li>Frontend: HTML, CSS, JavaScript and Typescript</li>
-            <li>Other Tools: Git, GitHub, VS Code</li>
-            <li>Know about my experiences</li>
-            <a href='https://drive.google.com/file/d/1OTa4NEXEbrRuDkfkqeVgNbqxCUTbRdQn/view?usp=drive_link'>https://drive.google.com/file/d/1wsjkMdE5lYS3UmhCAPAYBjcpkUBXPZoh/view<a>
-        </ul>
-        <h2>Projects</h1>
-        <p>Here are some of the projects I've worked on:</p>
-        <ul>
-            <li><a href="https://priceoye-by-haseeb.netlify.app/" target="_blank">Priceye App</a> -A fully responsive Priceoye Clone made by me using HTML,CSS and Bootstrap.</li>
-            <li><a href="https://noon-web-clone.netlify.app/" target="_blank">Noon Website</a> - Noon website clone. Fully responsive, multipage website made by me using HTML,CSS.</li>
-            <li><a href="https://quiz-app-by-haseeb.netlify.app/?" target="_blank">Quiz-App</a> - Quiz App desgin. Fully responsive, website made by me using HTML,CSS,Bootstrap and JAVASCRIPT</li>
-        </ul>
-        <h2>Learning Goals</h1>
-        <p>Currently, my focus is on mastering the MERN Stack, which includes:</p>
-        <ul>
-            <li>Mastering JavaScript.</li>
-            <li>Improving my React.js skills by building more complex and interactive user interfaces.</li>
-        </ul>
-        <h2>Get in Touch</h1>
-        <p>Feel free to reach out to me via LinkedIn if you want to collaborate on projects, have any questions, or just want to chat about web development!</p>
-        <h2>Let's Connect</h1>
-        <ul>
-            <li><a href="">linkedln</a></li>
-            <li><a href="">Gamil</a></li>
-            <li><a href="">Whatsapp</a></li>
-        </ul>
-        <p>Looking forward to connecting with you! 😊</p>
-</body>
+# 💫 About Me:
+Hello there! 👋 I'm Haseeb Ur Rehman, an 17-year-old enthusiast passionate about web development, currently diving deep into the world of MERN Stack. I love to code, learn new technologies, and build exciting projects.<br><br>🔭 I’m currently working on https://haseeb-dream-portfolio.web.app/<br>🌱 I’m currently learning Typescript, Reactjs, Nextjs, React-Native<br>💬 Ask me about Javascript, Typescript, ReactJS, NextJS<br>⚡ How to reach me haseeburrehmanjs@gmail.com
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/haseeburrehmanjs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haseeburrehmanjs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeburrehmanjs) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+[![](https://visitcount.itsvg.in/api?id=haseeburrehmanjs&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
