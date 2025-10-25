@@ -48,8 +48,6 @@ With over **8 months of hands-on experience** at **syhtek software solutions**, 
 
 ---
 
----
-
 ## 🌐 Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/haseeburrehmanjs)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haseeburrehmanjs)
