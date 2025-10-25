@@ -59,15 +59,3 @@ With over **8 months of hands-on experience** at **syhtek software solutions**, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeburrehmanjs)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/haseeburrehmanjs)
 
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=haseeburrehmanjs&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=haseeburrehmanjs&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haseeburrehmanjs&theme=radical&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=haseeburrehmanjs&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- 🌟 Updated by ChatGPT (GPT-5) with ❤️ for Haseeb Ur Rehman -->
