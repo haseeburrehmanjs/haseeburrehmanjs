@@ -48,9 +48,6 @@ With over **8 months of hands-on experience** at **syhtek software solutions**, 
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=haseeburrehmanjs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 
 ## 🌐 Connect With Me
