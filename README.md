@@ -3,7 +3,7 @@
 **Mid-Skill Frontend Developer**
 
 Hey there 👋  
-I'm **Haseeb Ur Rehman**, a passionate **Frontend Developer** currently leveling up my skills in **MERN Stack**. 
+I'm **Haseeb Ur Rehman**, a passionate **Frontend Developer** currently leveling up my skills in **MERN Stack**.
 With over **8 months of hands-on experience** at **syhtek software solutions**, I focus on building fast, responsive, and user-friendly web applications.  
 
 💡 My goal is to craft pixel-perfect UIs, write clean code, and keep learning every single day.
