@@ -26,7 +26,7 @@ With over **8 months of hands-on experience** at **syhtek software solutions**, 
 ---
 
 ## 💬 Ask Me About
-`JavaScript` • `TypeScript` • `React.js` • `Remix` • `Firebase` • `Frontend Architecture`
+`JavaScript` • `TypeScript` • `React.js` • `Remix` • `Next.js` • `Firebase` • `Frontend Architecture`
 
 📩 **Reach me at:** [haseeburrehmanjs@gmail.com](mailto:haseeburrehmanjs@gmail.com)
 
