@@ -26,8 +26,7 @@ With a proven track record across engineering roles including developing high-pe
 ---
 
 ## 🔭 Commercial Projects & Focus
-🌐 **[Personal Portfolio](https://haseeburrehmanjs.vercel.app/)** My engineering showcase and technical space.  
-🤖 **[Prompt.ai](https://promptai-v1.vercel.app/)** An AI-powered web platform engineered with **Remix** and **TypeScript**.  
+🌐 **[Personal Portfolio](https://haseeburrehmanjs.vercel.app/)** My engineering showcase and technical space.   
 💻 **Production UI/UX Architecture** Implementing smooth motion layouts and advanced UI interaction systems.
 
 ---
