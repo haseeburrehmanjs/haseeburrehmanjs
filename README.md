@@ -1,56 +1,77 @@
 # 🚀 Haseeb Ur Rehman
 
-**Mid-Skill Frontend Developer**
+**Frontend Developer**
 
 Hey there 👋  
-I'm **Haseeb Ur Rehman**, a passionate **Frontend Developer** currently leveling up my skills in **MERN Stack**.
-With over **8 months of hands-on experience** at **syhtek software solutions**, I focus on building fast, responsive, and user-friendly web applications.  
+I'm **Haseeb Ur Rehman**, a professional **Frontend Developer** specializing in building production-ready, highly reactive and scalable web applications. 
 
-💡 My goal is to craft pixel-perfect UIs, write clean code, and keep learning every single day.
+With a proven track record across engineering roles including developing high-performance layouts at **World Business Software Solutions** and engineering responsive frontend architecture at **Syhtek Software Solutions** I focus on writing clean, maintainable code and collaborating effectively within modern development teams.
 
----
-
-## 🔭 Currently Working On
-🌐 [personal portfolio](https://haseeburrehmanjs.vercel.app/)  
-🤖 [prompt.ai](https://promptai-v1.vercel.app/) An AI-powered web app built with **Remix** and **TypeScript**  
-💻 Exploring **Backend Development** & **GSAP Animations**
+💡 My goal is to craft pixel-perfect user interfaces, streamline web performance and maintain a high standard of architectural craftsmanship.
 
 ---
 
-## 🌱 Currently Learning
-- Next.js Advanced Concepts  
-- TypeScript & Performance Optimization  
-- React Native (for mobile app development)  
-- GSAP Animations for UI magic ✨  
+## 💼 Professional Experience
+
+### 🔹 Frontend Developer | World Business Software Solutions
+- Engineered high-performance web components and modular user interfaces leveraging **JavaScript**, **React.js** and **TypeScript**.
+- Partnered closely with cross-functional teams and product designers to deliver responsive, mobile-first design layouts.
+- Participated actively in strategic team syncs and thorough code reviews to maintain robust quality standards.
+
+### 🔹 Frontend Developer | Syhtek Software Solutions
+- Architected scalable, highly responsive frontend workflows utilizing **React** and **Remix**.
+- Streamlined runtime execution speeds by optimizing client-side state management systems.
+- Handled end-to-end translation of design wireframes into robust, pixel-perfect interactive layouts.
 
 ---
 
-## 💬 Ask Me About
-`JavaScript` • `TypeScript` • `React.js` • `Remix` • `Next.js` • `Firebase` • `Frontend Architecture`
-
-📩 **Reach me at:** [haseeburrehmanjs@gmail.com](mailto:haseeburrehmanjs@gmail.com)
+## 🔭 Commercial Projects & Focus
+🌐 **[Personal Portfolio](https://haseeburrehmanjs.vercel.app/)** My engineering showcase and technical space.  
+🤖 **[Prompt.ai](https://promptai-v1.vercel.app/)** An AI-powered web platform engineered with **Remix** and **TypeScript**.  
+💻 **Production UI/UX Architecture** Implementing smooth motion layouts and advanced UI interaction systems.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technical & Engineering Capabilities
 
+### 🛠️ Core Stack
+`HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `React.js` • `Next.js` • `Remix` • `React Router`
+
+### 💼 Professional & Soft Skills
+- **Agile Methodology:** Thriving in fast-paced sprint cycles, cross-functional standups and team syncs.
+- **UI/UX Translation:** Strong eye for detail, turning complex Figma/Adobe XD wireframes into pixel-perfect responsive layouts.
+- **Effective Communication:** Articulating state management logic and core system requirements across engineering levels.
+- **Collaborative Engineering:** Adhering to professional Git practices, branching models and conducting proactive code reviews.
+
+---
+
+## ⚙️ Tech Stack Visuals
+
+### Frontend & Frameworks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-black?style=for-the-badge&logo=remix&logoColor=white)
+
+### Management & Libraries
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
+
+### Workflow Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
 
 ## 🌐 Connect With Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/haseeburrehmanjs)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haseeburrehmanjs)
+📬 **Email:** [haseeburrehmanjs@gmail.com](mailto:haseeburrehmanjs@gmail.com)  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeburrehmanjs)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/haseeburrehmanjs)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/haseeburrehmanjs)
