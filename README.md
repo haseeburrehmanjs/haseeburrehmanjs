@@ -1,6 +1,6 @@
 # 🚀 Haseeb Ur Rehman
 
-<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/6d9714ae-d150-4a8f-bc90-a84f7467503e" />
+<img width="1774" height="493" alt="perfect-banner" src="https://github.com/user-attachments/assets/5e8c8c52-d939-4f6a-afd7-ed6589076c4c" />
 
 
 ## Hey there 👋  
