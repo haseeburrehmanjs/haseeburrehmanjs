@@ -1,6 +1,7 @@
 # 🚀 Haseeb Ur Rehman
 
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/dfe59ee5-373f-4914-9d59-8c6dc00f7bb3" />
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/6d9714ae-d150-4a8f-bc90-a84f7467503e" />
+
 
 ## Hey there 👋  
 I'm **Haseeb Ur Rehman**, a professional **Frontend Developer** specializing in building production-ready, highly reactive and scalable web applications. 
