@@ -4,7 +4,7 @@
 
 
 ## Hey there 👋  
-I'm **Haseeb Ur Rehman**, a professional **Frontend Developer** specializing in building production-ready, highly reactive and scalable web applications. 
+I'm **Haseeb Ur Rehman**, a experience **Frontend / Software Developer** specializing in building production-ready, highly reactive and scalable web applications. 
 
 With a proven track record across engineering roles including developing high-performance layouts at **World Business Software Solutions** and engineering responsive frontend architecture at **Syhtek Software Solutions** I focus on writing clean, maintainable code and collaborating effectively within modern development teams.
 
